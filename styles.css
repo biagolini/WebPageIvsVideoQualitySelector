@@ -1,0 +1,36 @@
+/* Makes the page background completely black */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+/* Styles for the video container */
+.video-container {
+  width: 100%;
+  height: auto; /* Adjust based on the aspect ratio */
+  max-width: 640px;
+  max-height: 480px;
+  margin: 20px auto;
+}
+
+/* Input container styling */
+#input-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type='text'] {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+  color: black;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
