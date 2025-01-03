@@ -4,6 +4,8 @@
 
 This project is designed to demonstrate the integration of Amazon Interactive Video Service (IVS) with the Video.js player using a quality selection plugin. It provides a practical example of setting up a video stream that allows users to select the streaming quality dynamically via a user interface.
 
+Check this project at [github pages!](https://biagolini.github.io/WebPageIvsVideoQualitySelector/)
+
 ## Features
 
 - Quality Selection: Users can change the video quality during playback, choosing from the options provided by the stream.
